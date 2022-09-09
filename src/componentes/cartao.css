@@ -1,0 +1,22 @@
+.cartao {
+  box-shadow: rgba(0, 0, 0, 0.1) 0px 4px 12px;
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  padding: 10px;
+  border-radius: 5px;
+  background-color: #ddd1f0;
+  margin: 10px;
+  font-family: sans-serif;
+  font-size: 12px;
+  width: 300px;
+}
+.cartao h2 {
+  color: #824dd6;
+}
+.cartao img {
+  width: 60px;
+  border-radius: 50%;
+  border: 3px solid #824dd6;
+  flex: 1;
+}
